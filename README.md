@@ -3,7 +3,7 @@ PhaserJSGame
 
 Phaser JS Game
 
-<img src="https://github.com/szahn/PhaserJSGame/blob/master/screenshots/052514.png"/>
+<img src="https://raw.githubusercontent.com/szahn/PhaserJSGame/master/screenshots/052514.png"/>
 
 Controls: Press and hold the left mouse button to guide your character through the map.
 
